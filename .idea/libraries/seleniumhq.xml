@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="seleniumhq">
+    <CLASSES>
+      <root url="file://$MAVEN_REPOSITORY$/org/seleniumhq" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

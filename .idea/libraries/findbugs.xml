@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="findbugs">
+    <CLASSES>
+      <root url="file://$MAVEN_REPOSITORY$/com/google/code/findbugs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
